@@ -1,0 +1,67 @@
+
+html{
+    font-size: 0.85rem;
+   
+}
+.contenedor{
+    margin: 10px;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 10px;
+}
+
+.contorno{
+    border: 1px solid grey;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+.borde{
+    border: 2px solid grey;
+    
+}
+.superior{
+    border-radius: 6px 6px 0px 0px;
+}
+
+.inferior{
+    border-bottom:1px solid grey;
+}
+.tachado{
+    text-decoration: line-through
+}
+.bg-blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #02174d;
+    color: aliceblue;
+    height: 50px;
+    margin: 10px auto;
+}
+.azul{
+    background-color: #02174d !important;
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: orange;
+}
+.footer{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #02174d;
+    color: aliceblue;
+}
+.footer a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 5px;
+}
+.redesSociales{
+    margin: 7px;
+}
