@@ -116,3 +116,8 @@ h6 {
 .menu-link a:hover{
     color: #043ac2;
 }
+
+.icono {
+  width: 20px;
+  margin-right: 5px;
+}
