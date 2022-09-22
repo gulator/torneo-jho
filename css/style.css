@@ -118,6 +118,9 @@ h6 {
 }
 
 .icono {
-  width: 20px;
+  width: 18px;
   margin-right: 5px;
+}
+.rojo{
+  filter: invert(79%) sepia(18%) saturate(6485%) hue-rotate(351deg) brightness(89%) contrast(101%);
 }
