@@ -124,3 +124,7 @@ h6 {
 .rojo{
   filter: invert(79%) sepia(18%) saturate(6485%) hue-rotate(351deg) brightness(89%) contrast(101%);
 }
+.dorado{
+  width: 21px;
+  filter: invert(61%) sepia(62%) saturate(445%) hue-rotate(8deg) brightness(101%) contrast(93%);
+}
